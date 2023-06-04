@@ -1,10 +1,10 @@
 # 이력서
 
 ## Personal Info
-- 이름: 신희선
-- 주소: 서울특별시 서대문구
-- 전화번호: 010-6709-2422
-- 이메일: solhs10@ewhain.net
+- 이름 : 신희선
+- 주소 : 서울특별시 서대문구 거주
+- 전화번호 : 010-6709-2422
+- 이메일 : solhs10@ewhain.net
 
 ## Career Objective
 - UX/UI 디자인, Product 디자인
