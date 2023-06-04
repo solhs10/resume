@@ -14,7 +14,7 @@
 ## Education
 - 2019.03 | 이화여자대학교 조형예술대학 디자인학부 입학
 - 2020.03 | 이화여자대학교 신산업융합대학 융합콘텐츠학과 부전공
-- 2022.10 ~ 2023.02 | European University Viadrina Frankfurt (Oder), Germany, IBA(International Business Adminstration) 방문학생
+- 2022.10 ~ 2023.02 | European University Viadrina Frankfurt (Oder), Germany, IBA(International Business Adminstration), Visiting Student
 
 
 ## Experience
