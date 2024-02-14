@@ -2,13 +2,12 @@
 
 ## Personal Info
 #### 이름 : 신희선
-#### 주소 : 서울특별시 서대문구 거주
 #### 전화번호 : 010-6709-2422
 #### 이메일 : solhs10@ewhain.net
 
 
 ## Career Objective
-#### UX/UI 디자인, Product 디자인
+#### UX/UI Design, Product Design
 
 
 ## Education
@@ -23,12 +22,13 @@
 - 2021.04 ~ 2021.06 | [교내] 이화여자대학교 창립 135주년 기념전시 MAYDAY - Media Art
 - 2021.09 ~ 2022.08 | [교내] 인재개발원 소속 웹 개발 동아리 EFUB 활동
 - 2022.03 ~ 2023.06 | [교내] 해외 UXUI 아티클 번역 동아리 De Article 활동
-- 2023.03 ~ 2023.06 | [교내] 2023 이화여대 디자인학부 졸업전시위원회 웹팀 - 웹사이트 디자인 담당 
+- 2023.03 ~ 2023.06 | [교내] 2023 이화여대 디자인학부 졸업전시위원회 웹팀 - 웹사이트 디자인 담당
+- 2023.07 ~ 2023.08 | [교외] 경기도콘텐츠진흥원 디자인솔루션랩 7기 청년디자이너 - UXUI 
 
  
 ## Language Skills
 - 한국어 | 모국어
-- 영어 | High Intermediate-Reading, Listening, Writing, 일상 회화 가능-Speaking
+- 영어 | High-Intermediate Reading, Listening, Writing / Speaking (일상 회화 가능)
 
 
 ## Tools
